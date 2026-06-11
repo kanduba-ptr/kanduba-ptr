@@ -8,23 +8,11 @@ In general, I write everything that interests me.😃
 *   Deepening expertise in asynchronous programming (Boost.Asio) and low-level system interactions.
 *   Designing and programming custom embedded hardware (STM32, PCB design).
 
-### 🛠 Tech Stack & Tools
-*   **Languages:** Modern C++ (C++14 to C++26), C, Python (scripting/automation)
-*   **Architecture & Libraries:** STL, Boost.Asio, RAII design patterns, Multithreading & Concurrency
-*   **Embedded & Hardware:** STM32, HackRF/SDR, Custom PCB design (EasyEDA)
-*   **Infrastructure & DevOps:** Linux (Ubuntu Server), Docker/Portainer, ZFS, MikroTik networking
-
 ### 📫 How to reach me
 *   **LinkedIn:** [Your Link]
 *   **Email:** [Your Email]
 
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/cplus.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/python.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/slim.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/laravel.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/php.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/mysql.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/react.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/node.png" />
-<img  align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/javascript.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/ajayrandhawa/ajayrandhawa/master/firebase.png" />
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
+
