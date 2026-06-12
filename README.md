@@ -10,7 +10,7 @@ In general, I write everything that interests me.😃
 *   Building **NitroKV** — a high-performance key-value store leveraging modern C++20/26 features, SLRU caching, and SIMD optimizations.
 *   Deepening expertise in asynchronous programming (Boost.Asio) and low-level system interactions.
 *   Designing and programming custom embedded hardware (STM32, PCB design).
-*   Writing helpers/utilities/autmations on Python
+*   Writing helpers/utilities/autmations/dashboards on Python
 
 
 
