@@ -17,7 +17,7 @@ In general, I write everything that interests me.😃
 
 
 ### 📫 How to reach me
-*   **LinkedIn:** [Your Link]
+*   **LinkedIn:** **https://www.linkedin.com/in/nikita-k-939aaa246**
 *   **Email:** **kandubanikita@gmail.com**
 *   **Telegram:** **https://t.me/macacool**  
 
